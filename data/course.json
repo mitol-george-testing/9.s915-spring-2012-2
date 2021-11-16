@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e27dc0c5-3212-2b0f-b5a4-073cea66aa3d",
+      "6d21c940-bf5c-6ce7-0fab-85536b2fb5da"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Developmental Cognitive Neuroscience",
+  "course_description": "This course uses neuroscience methods to study the cognitive development of human infants and children. Case studies draw from research on face recognition, language, executive function, representations of objects, number and theory of mind.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.S915",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
